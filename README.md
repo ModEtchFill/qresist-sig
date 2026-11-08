@@ -1,5 +1,7 @@
 # qresist-sig
 
+**DO NOT USE!!!! UNPROTECTED SECRET KEY**
+
 `signify(1)`-shaped signatures that **layer a post-quantum ML-DSA signature
 with classic Ed25519**. A signature is accepted only if *both* component
 signatures verify over the message, and the signature is bound to a specific
