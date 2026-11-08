@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+/src/qsignify
+/third_party/
+/java/*.class
+*.o
+bcprov-jdk18on-*.jar
